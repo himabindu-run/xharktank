@@ -1,2 +1,2 @@
 # xharktank
-Server Side Api for Xharktank Application
+Server Side Api for Xharktank Application in Go Lang 🕶️
